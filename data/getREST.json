@@ -1,0 +1,7 @@
+{
+  "uri": "https://rickandmortyapi.com/api",
+  "method": "GET",
+  "headers": {
+    "User-Agent": "Request-Promise"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "jsbench_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine specs/smoke.spec.js",
+    "testGraphQL": "jasmine specs/graphQL.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALegchilov/jsbench_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALegchilov/jsbench_api/issues"
+  },
+  "homepage": "https://github.com/ALegchilov/jsbench_api#readme",
+  "dependencies": {
+    "jasmine": "^3.5.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8",
+    "winston": "^3.2.1"
+  }
+}

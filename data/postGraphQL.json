@@ -1,0 +1,8 @@
+{
+    "uri": "https://rickandmortyapi.com/graphql/",
+    "method": "POST",
+    "headers": {
+        "Content-Type": "application/graphql"
+    },
+    "body": ""
+}
